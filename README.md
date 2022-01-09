@@ -1,4 +1,6 @@
-# Smart-Locker-dsPIC33ck: https://youtu.be/NDEcD_nKl9s
+# Smart-Locker-dsPIC33ck: 
+
+### Video explanation: https://youtu.be/NDEcD_nKl9s
 
 #### Background Information
 Locks are of great importance and are used everywhere like jail doors, house
@@ -88,5 +90,3 @@ resistance value of LDR is very high then the LEDs will glow which is kept
 near the Keypad. This will make the keypad visible even in dark.
 
 Checkout the final report in pdf format for more details.
-
-or check this video explanation: https://youtu.be/NDEcD_nKl9s
